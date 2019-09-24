@@ -12,3 +12,4 @@ camera control based on nxt (lego mindstorm)
 
 
 programed on pygtk
+![image01](https://github.com/Roboxtools/SMCC/blob/master/004.jpg?raw=true)
